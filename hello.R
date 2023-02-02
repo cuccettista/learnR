@@ -1,3 +1,1 @@
-msg <- "Hello from Binder"
-msg 
-msg
+print("Hello from Binder!")
